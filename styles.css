@@ -1,0 +1,159 @@
+body {
+    overflow-x: hidden; 
+}
+header{
+    background-color: blue;
+    color:color;
+    height:65px;
+    width:100%
+}
+input{
+    height:30px;
+    width: 300px;
+    margin:0;
+    position: relative;
+    bottom: 30px;
+}
+#first{
+    max-width:100px;
+    height:65px;
+}
+button{
+    position: relative;
+    left:15px;
+    bottom: 30px;
+}
+#sec{
+    width:40px;
+    position: relative;
+    left: 650px;
+    bottom: 15px;
+}
+#third{
+    position:relative;
+    left:700px;
+    bottom: 10px;
+}
+h3{
+    position:relative;
+    left:86%;
+    bottom:75px;
+    color:white;
+}
+/* body{
+    overflow: hidden;
+} */
+#n1{
+    position:relative;
+    left:20px;
+    top:20px;
+}
+#n2{
+    position:relative;
+    left:200px;
+    bottom:100px;
+}
+#h1{
+    position:relative;
+    left:20px;
+    top:6px;
+}
+#h2{
+    position:relative;
+    left:200px;
+    bottom:115px;
+}
+#h3{
+    position:relative;
+    left:370px;
+    bottom:240px;
+}
+#h4{
+    position:relative;
+    left:570px;
+    bottom:365px;
+}
+#h5{
+    position:relative;
+    left:760px;
+    bottom:485px;
+}
+#h6{
+    position:relative;
+    left:1000px;
+    bottom:600px;
+}
+#h7{
+    position:relative;
+    left:1210px;
+    bottom:715px;
+}
+#h8{
+    position:relative;
+    left:1360px;
+    bottom:830px;
+}
+nav{
+    height:95px;
+}
+
+#n3{
+    width:70px;
+    position:relative;
+    bottom:220px;
+    left:360px;
+}
+#n4{
+    width:60px;
+    position:relative;
+    bottom:345px;
+    left:560px;
+}
+#n5{
+    width:80px;
+    position:relative;
+    bottom:470px;
+    left:760px;
+}
+#n6{
+    width:90px;
+    height: 50px;
+    position:relative;
+    bottom:585px;
+    left:990px;
+}
+#n7{
+    width:90px;
+    height: 50px;
+    position:relative;
+    bottom:700px;
+    left:1195px;
+}
+#n8{
+    width:90px;
+    height: 50px;
+    position:relative;
+    bottom:820px;
+    left:1380px;
+}
+#im1{
+    width:500px;
+    height: 400px;
+}
+#im2{
+    width:500px;
+    height: 400px;
+}
+#im3{
+    width:500px;
+    height: 400px;
+}
+#imageContainer{
+    display:flex;
+}
+.image{
+    margin-right: 10px;
+}
+iframe{
+    width:100%;
+}
